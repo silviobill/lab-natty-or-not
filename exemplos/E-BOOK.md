@@ -1,20 +1,20 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# A Jornada da IA: Conhecendo a história de Iguape/SP 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Arquivo PDF criado com Inteligência Artificial Generativas.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- IA Generativa **[Copilot](https://copilot.microsoft.com/)** para criar a imagem de apresentação;
+- Ferramenta **Microsoft Word** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "ChatGPT" para criar um texto de apresentação da minha cidade, solicitando a descrição da História da cidade, a história do Bom Jesus de Iguape e os principais ponto turísticos. Utilizei o Copilot para criar uma imagem de apresentação, o qual ficou muito futurista e nada parecida com a imagem atual. Por sim, finalizado com o Microsoft Word para unir as duas informações.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book apresenta um conteúdo criado 100% por IA Generativa, uma poderosa ferramenta que está revolucionando todas as áreas.
 
-[LINK PARA O E-BOOK AQUI]()
+[CLIQUE AQUI PARA ABRIR O DOCUMENTO](https://github.com/silviobill/lab-natty-or-not/blob/f80f8c4c07e5d67c8cfd1a19fe1fc194a9bc9dd1/ProjetoIA.pdf)
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Utilizar as ferramentas de IA está sendo muito útil em diversas áreas, no entanto, precisamos saber quais são verdadeiras ou faltas, pois com isso, podemos ser enganados. Por exemplo, há funções de IA que é possivel criar uma voz parecida com a sua, todo o cuidado é pouco.
